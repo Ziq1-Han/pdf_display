@@ -1,0 +1,273 @@
+.headerChild,
+.headerItem {
+  position: absolute;
+  height: 1.08%;
+  width: 100.08%;
+  top: 99.46%;
+  right: -0.04%;
+  bottom: -0.54%;
+  left: -0.04%;
+  filter: blur(4px);
+  border-top: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.headerItem {
+  top: -0.54%;
+  bottom: 99.46%;
+  border-top: 1px solid var(--color-dimgray-200);
+}
+.text {
+  position: relative;
+  line-height: 30px;
+}
+.formButton {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--primary-pantone-300);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-base);
+  align-items: center;
+  justify-content: center;
+}
+.headerButtonP300,
+.headerButtonP3001 {
+  position: absolute;
+  height: 70.97%;
+  width: 11.11%;
+  top: 13.98%;
+  right: 13.4%;
+  bottom: 15.05%;
+  left: 75.49%;
+}
+.headerButtonP3001 {
+  right: 1.18%;
+  left: 87.71%;
+}
+.plantManagementSystem {
+  position: absolute;
+  height: 98.91%;
+  width: 78.85%;
+  top: 0;
+  left: 21.15%;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+}
+.danoneLogoHorizontal1Icon {
+  position: absolute;
+  height: 93.48%;
+  width: 18.78%;
+  top: 6.52%;
+  right: 81.22%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logoChild {
+  position: absolute;
+  height: 72.83%;
+  width: 0.11%;
+  top: 13.59%;
+  right: 81.17%;
+  bottom: 13.59%;
+  left: 18.73%;
+  border-right: 1px solid var(--primary-pantone-process-cyan);
+  box-sizing: border-box;
+}
+.logo {
+  position: absolute;
+  height: 98.92%;
+  width: 73.22%;
+  top: 0;
+  right: 25.39%;
+  bottom: 1.08%;
+  left: 1.39%;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+}
+.backgroundFullPage1,
+.header {
+  position: absolute;
+  height: 11.63%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 88.38%;
+  left: 0;
+}
+.backgroundFullPage1 {
+  height: 100%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.backgroundFullPage {
+  position: absolute;
+  height: 88.38%;
+  width: 68.2%;
+  top: 11.63%;
+  right: 0;
+  bottom: 0;
+  left: 31.8%;
+}
+.verticalNavbarBodyChild {
+  position: absolute;
+  top: -0.5px;
+  left: 406.5px;
+  filter: blur(4px);
+  border-right: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 932px;
+}
+.danoneHoldingDeviceAssets3Icon,
+.danoneHoldingDeviceAssets3Icon1,
+.danoneHoldingDeviceAssets3Icon2 {
+  position: absolute;
+  height: 16%;
+  width: 116.04%;
+  top: 4.8%;
+  right: -16.04%;
+  bottom: 79.2%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.danoneHoldingDeviceAssets3Icon1,
+.danoneHoldingDeviceAssets3Icon2 {
+  top: 18.25%;
+  bottom: 65.75%;
+}
+.danoneHoldingDeviceAssets3Icon2 {
+  top: 29.7%;
+  bottom: 54.3%;
+}
+.anyOtherModule,
+.identityManagementAnd,
+.operatorsPerformance {
+  position: absolute;
+  height: 3.58%;
+  width: 83.33%;
+  top: 10.75%;
+  left: 8.33%;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+}
+.anyOtherModule,
+.operatorsPerformance {
+  top: 24.47%;
+  left: 8.11%;
+}
+.anyOtherModule {
+  top: 36.49%;
+  left: 8.35%;
+}
+.verticalNavbarBody {
+  position: absolute;
+  top: calc(50% - 307px);
+  left: calc(50% - 640px);
+  width: 407px;
+  height: 707px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+}
+.closeLateralBar {
+  position: absolute;
+  height: 3%;
+  width: 1.88%;
+  top: 97%;
+  right: 68.2%;
+  bottom: 0;
+  left: 29.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.button {
+  position: relative;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 1.5px;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: var(--font-oswald);
+  color: var(--color-white);
+  text-align: center;
+  width: 172px;
+}
+.buttoncontainedText {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--primary-pantone-process-cyan);
+  position: absolute;
+  height: 6.34%;
+  width: 13.47%;
+  top: 59.13%;
+  right: 83.87%;
+  bottom: 34.53%;
+  left: 2.66%;
+  border-radius: var(--br-4xs);
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px rgba(0, 0, 0, 0.14),
+    0 1px 5px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.mainLaptop,
+.mainLaptopParent {
+  background-color: var(--color-white);
+  height: 800px;
+  overflow: hidden;
+}
+.mainLaptop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+}
+.mainLaptopParent {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--primary-pantone-300);
+  font-family: var(--font-oswald);
+}
+@media screen and (max-width: 1200px) {
+  .mainLaptopParent {
+    width: 1280px;
+    height: 800px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .mainLaptopParent {
+    width: 768px;
+    height: 1024px;
+  }
+}
+@media screen and (max-width: 420px) {
+  .mainLaptopParent {
+    width: 568px;
+    height: 320px;
+  }
+}

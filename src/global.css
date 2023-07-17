@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-oswald: Oswald;
+  --font-amatic-sc: "Amatic SC";
+
+  /* font sizes */
+  --font-size-4xl: 23px;
+  --font-size-3xl: 22px;
+  --font-size-29xl: 48px;
+  --font-size-11xl: 30px;
+  --font-size-21xl: 40px;
+  --font-size-16xl: 35px;
+
+  /* Colors */
+  --color-white: #fff;
+  --primary-pantone-process-cyan: #00aced;
+  --primary-pantone-300: #005eb8;
+  --color-dimgray-100: #6d6e71;
+  --color-dimgray-200: rgba(109, 110, 113, 0);
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+
+  /* border radiuses */
+  --br-4xs: 9px;
+  --br-9xs: 4px;
+  --br-6xs: 7px;
+}
